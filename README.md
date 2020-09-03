@@ -2,6 +2,7 @@ Description
 ===========
 
 SOCKS protocol version 5 server and client implementations for node.js
+This is a fork with a bug fixed in normalizeConnectArgs
 
 
 Requirements
